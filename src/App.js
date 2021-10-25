@@ -5,7 +5,7 @@ function App() {
   <>
   <h1>lorem</h1>
   <p>sdfghjkgygchdsjcsjxh</p>
-  <h1>euiopdfghjklcvbl;vb;g</h1>  
+  <h1>euiS</h1>  
   
   </>
   );
