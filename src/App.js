@@ -3,7 +3,7 @@
 function App() {
   return (
   <>
-  <h1>lorem</h1>
+  <h1>lo</h1>
   
   </>
   );
